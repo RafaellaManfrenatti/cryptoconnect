@@ -1,103 +1,135 @@
-body{
+body {
     background-color: #230954;
 }
-#banner{
+
+#banner {
     padding-top: 30px;
     height: 380px;
     width: 100%;
 }
-.text1{
+
+.text1 {
     color: #D9D9D9;
     padding-top: 30px;
     padding-bottom: 30px;
     text-align: left;
     font-size: 40px;
 }
-.textinter1{
+
+.textinter1 {
     color: #D9D9D9;
     font-size: 20px;
 }
-.text2{
-    color:#D9D9D9;
+
+.text2 {
+    color: #D9D9D9;
     font-size: 20px;
     padding-bottom: 30px;
 }
-#button{
+
+#button {
     background-color: #EB7931;
     border: none;
     margin-bottom: 40px;
     font-size: 20px;
-   
- }
- .text3{
-    color:#D9D9D9;
-    font-size:25px;
+
+}
+#button:hover{
+    color:#230954;
+}
+
+.text3 {
+    color: #D9D9D9;
+    font-size: 25px;
     margin-bottom: 30px;
- }
- .text4{
-    color:#D9D9D9;
-    font-size:18px;
+}
+
+.text4 {
+    color: #D9D9D9;
+    font-size: 18px;
     margin-bottom: 30px;
- }
- .text5{
-    color:#D9D9D9;
-    font-size:25px;
+}
+
+.text5 {
+    color: #D9D9D9;
+    font-size: 25px;
     margin-bottom: 30px;
 
- }
- .text6{  
-    color:#D9D9D9;
-    font-size:18px;
-    margin-bottom: 30px;
- }
+}
 
-footer{
+.text6 {
+    color: #D9D9D9;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+footer {
     background-color: #EB7931;
 }
-.textfooter1{
+
+.textfooter1 {
     color: #D9D9D9;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 25px;
 
 }
-.textfooter2{
-    color:#D9D9D9;
+
+.textfooter2 {
+    color: #D9D9D9;
     font-size: 20px;
     padding-bottom: 30px;
     text-align: right;
 }
 
-.textfooter3{
+.textfooter3 {
     color: #D9D9D9;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 25px;
+   
 }
-.textfooter4{
-    color:#D9D9D9;
+
+.textfooter4 {
+    color: #D9D9D9;
     font-size: 20px;
     padding-bottom: 30px;
     text-align: center;
+   
 
 }
-.textfooter5{
+
+.textfooter5 {
     color: #D9D9D9;
     padding-top: 30px;
     padding-bottom: 30px;
     font-size: 25px;
+    
 }
-.textfooter6{
-    color:#D9D9D9;
+
+.textfooter6 {
+    color: #D9D9D9;
     font-size: 20px;
     padding-bottom: 30px;
     text-align: center;
+    
+  
 
 }
-#market{
+.textfooter6:hover{
+    text-decoration: none;
+    color:#230954;
+}
+
+.textfooter4:hover{
+    text-decoration: none;
+    color:#230954;
+}
+#market {
     display: flex;
-  justify-content: flex-end;
+    justify-content: flex-end;
 }
-.titlelogin{
+
+.titlelogin {
     color: #D9D9D9;
 }
