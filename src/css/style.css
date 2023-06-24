@@ -1,0 +1,29 @@
+body{
+    background-color: #230954;
+}
+#banner{
+    padding-top: 30px;
+    height: 380px;
+    width: 100%;
+}
+.text1{
+    color: #D9D9D9;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    font-size: 40px;
+}
+.textinter1{
+    color: #D9D9D9;
+    font-size: 20px;
+}
+.text2{
+    color:#D9D9D9;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+#button{
+    background-color: #EB7931;
+    border: none;
+   
+ }
