@@ -23,7 +23,7 @@
           <a class="nav-link" href="./market.php">MarketPlace</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Microcrédito</a>
+            <a class="nav-link" href="./credit.php">Microcrédito</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Suporte</a>

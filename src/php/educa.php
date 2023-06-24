@@ -33,7 +33,7 @@ require_once 'menu.php';
           <img src="curso3.jpg" class="card-img-top" alt="Como usar crypto">
           <div class="card-body">
             <h5 class="card-title">Como usar crypto</h5>
-            <p class="card-text">Aprenda os conceitos básicos sobre criptomoedas e como utilizá-las no seu dia a dia.</p>
+            <p class="card-text">Aprenda os conceitos básicos sobre criptomoedas e como utilizá-los.</p>
             <a href="#" class="btn btn-primary bg-warning border-0">Saiba Mais</a>
           </div>
         </div>

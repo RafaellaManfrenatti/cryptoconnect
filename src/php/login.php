@@ -19,7 +19,10 @@ require_once 'menu.php';
             <input type="password" class="form-control" id="password" placeholder="Digite sua senha" required>
           </div>
           <div class="form-group">
-            <button type="submit" class="btn btn-primary btn-block">Entrar</button>
+            <button type="submit" class="btn btn-primary btn-block bg-secondary border-0">Entrar</button>
+          </div>
+          <div class="form-group">
+            <button type="submit" class="btn btn-primary btn-block bg-warning border-0">Acessar com sua Id Digital</button>
           </div>
           <div class="text-center">
             <a href="#">Esqueceu sua senha?</a>

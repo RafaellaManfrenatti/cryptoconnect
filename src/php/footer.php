@@ -11,9 +11,9 @@
         
           <div class="col-md-3">
               <h3 class="textfooter3">Contatos </h3>
-                <p class="textfooter4">(21)3334-7458</p>
-                  <p class="textfooter4">(21)98776-3435</p>
-                    <p class="textfooter4">(21)99775-1255</p>                     
+                <p class="textfooter4">Discord</p>
+                  <p class="textfooter4">Instagram</p>
+                    <p class="textfooter4">Twitter</p>                     
                
           </div>
           <div class="col-md-3">
@@ -29,7 +29,7 @@
         <p class="textfooter6" href="./educa.php">Educação</p>
           <p class="textfooter6">Suporte</p>
             <p class="textfooter6" href="./market.php">Marketplace</p>    
-            <p class="textfooter6">Microcrédito</p>                 
+            <p class="textfooter6" href="./credit.php">Microcrédito</p>                 
        
   </div>
         
