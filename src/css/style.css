@@ -98,3 +98,6 @@ footer{
     display: flex;
   justify-content: flex-end;
 }
+.titlelogin{
+    color: #D9D9D9;
+}
