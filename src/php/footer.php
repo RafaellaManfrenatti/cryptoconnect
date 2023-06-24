@@ -25,8 +25,8 @@
         </div>
     
     <div class="col-md-3">
-      <h3 class="textfooter5">Home</h3>
-        <p class="textfooter6" href="./login.php">Educação</p>
+      <h3 class="textfooter5" href="./login.php">Home</h3>
+        <p class="textfooter6" href="./educa.php">Educação</p>
           <p class="textfooter6">Suporte</p>
             <p class="textfooter6" href="./market.php">Marketplace</p>    
             <p class="textfooter6">Microcrédito</p>                 

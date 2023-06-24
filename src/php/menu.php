@@ -17,7 +17,7 @@
           <a class="nav-link" href="./index.php">Home <span class="sr-only">(Página atual)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Educação</a>
+          <a class="nav-link" href="./educa.php">Educação</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="./market.php">MarketPlace</a>
