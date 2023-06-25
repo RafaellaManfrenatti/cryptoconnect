@@ -22,7 +22,7 @@ require_once 'menu.php';
                         <button type="submit" class="btn btn-primary btn-block bg-secondary border-0">Entrar</button>
                     </div>
                     <div class="form-group">
-                        <button type="submit" class="btn btn-primary btn-block bg-warning border-0" >Acessar com sua Id Digital</button>
+                        <button type="submit" class="btn btn-primary btn-block bg-warning border-0" id="buttonmeta" onclick="connectToMetaMask()">Acessar com sua Id Digital</button>
 
                     </div>
                     <div class="text-center">
@@ -32,6 +32,25 @@ require_once 'menu.php';
             </div>
         </div>
     </div>
+    <script>
+  const connectToMetaMask = async () => {
+    try {
+      if (window.ethereum) {
+        await window.ethereum.enable();
+        // Conexão bem-sucedida, faça algo aqui
+        alert('Conexão com MetaMask estabelecida!');
+      } else {
+        alert('Por favor, instale a MetaMask para continuar.');
+      }
+    } catch (error) {
+      console.error(error);
+    }
+  };
+
+  const btnCadastro = document.getElementById('buttonmeta');
+  btnCadastro.addEventListener('click', connectToMetaMask);
+</script>
+</body>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>

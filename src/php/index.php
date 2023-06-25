@@ -17,7 +17,7 @@ require_once 'menu.php';
                 <h3 class="text2">Junte-se a nós nessa jornada para construir um futuro mais justo e sustentável para todos.</h3>
 
 
-                <button id="button" class="btn btn-primary">Cadastre-se</button>
+                <button id="button" class="btn btn-primary">Cadastre-se</button><br><br>
             </div>
         </div>
     </div>
@@ -44,7 +44,8 @@ require_once 'menu.php';
             </div>
         </div>
     </div>
-
+<br>
+<br>
 
     <div class="container">
         <div class="row">
@@ -62,7 +63,8 @@ require_once 'menu.php';
             </div>
         </div>
     </div>
-
+<br>
+<br>
     <div class="container">
         <div class="row">
             <div class="col-md-6">
@@ -83,7 +85,8 @@ require_once 'menu.php';
 
 
 
-
+<br>
+<br>
 
 
     <div class="container">
@@ -103,7 +106,7 @@ require_once 'menu.php';
                     <div class="form-group">
                         <label for="mensagem">Mensagem:</label>
                         <textarea class="form-control" id="mensagem" rows="3" placeholder="Sua mensagem"></textarea>
-                    </div>
+                    </div><br>
                     <button type="submit" class="btn btn-primary" id="button">Enviar</button>
                 </form>
             </div>

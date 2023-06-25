@@ -18,18 +18,18 @@
           </div>
           <div class="col-md-3">
                         <h3 class="textfooter5">Termos e Condições </h3>
-                          <p><a class="textfooter6" href="./politics.php">Políticas de Privacidade</a></p>
-                            <p ><a class="textfooter6" href="./terms.php">Termos de Uso</a></p>
+                          <p><a class="textfooter6" href="./politics.php">Políticas de Privacidade</a></p><br>
+                            <p ><a class="textfooter6" href="./terms.php">Termos de Uso</a></p><br>
                               <p><a class="textfooter6" href="./faq.php">FAQ</a></p>                     
                          
                     </div>
                 
                 <div class="col-md-3">
                   <h3 class="textfooter5">Home</h3>
-                    <p><a class="textfooter6" href="./educa.php">Educação</a></p>
-                      <p><a class="textfooter6"  href="./suport.php">Suporte</a></p>
-                        <p><a class="textfooter6" href="./market.php">MarketPlace</a></p>  
-                        <p><a class="textfooter6" href="./credit.php">Microcrédito</a></p>             
+                    <p><a class="textfooter6" href="./educa.php">Educação</a></p><br>
+                      <p><a class="textfooter6"  href="./suport.php">Suporte</a></p><br>
+                        <p><a class="textfooter6" href="./market.php">MarketPlace</a></p><br>  
+                        <p><a class="textfooter6" href="./credit.php">Microcrédito</a></p><br>             
                    
               </div>
         
@@ -44,7 +44,7 @@
         
           <div class="col-md-12">
           
-          <p>CryptoConnect &copy; Todos os direitos reservados. </p>
+          <p class="text-secondary">CryptoConnect &copy; Todos os direitos reservados. </p>
           
           </div>
         </div>
